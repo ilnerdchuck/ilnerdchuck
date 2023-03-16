@@ -2,7 +2,7 @@
 - 👀 I’m interested in Scatolette
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on you
-- 📫 How to reach my heart https://www.linkedin.com/in/francescomignone/
+- 📫 How to reach me https://www.linkedin.com/in/francescomignone/
 
 <!---
 ilnerdchuck/ilnerdchuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
