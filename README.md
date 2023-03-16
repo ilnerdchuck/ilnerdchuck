@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ilnerdchuck
 - 👀 I’m interested in Scatolette
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on you
 - 📫 How to reach me https://www.linkedin.com/in/francescomignone/
 
 <!---
