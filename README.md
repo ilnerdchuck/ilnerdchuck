@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/ilnerdchuck" target="blank"><img src="https://img.shields.io/twitter/follow/ilnerdchuck?logo=twitter&style=for-the-badge" alt="ilnerdchuck" /></a> </p>
 
+- 👀 I’m interested in Scatolette and IC Design
+
 - 🌱 I’m currently learning **Rust**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/francescomignone/](https://www.linkedin.com/in/francescomignone/)
