@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Scatolette and IC Design
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **PCB Design**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/francescomignone/](https://www.linkedin.com/in/francescomignone/)
 
