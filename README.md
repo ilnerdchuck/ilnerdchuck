@@ -11,8 +11,6 @@
 
 - ⚡ **I like anime and hentai. Oh yes i also like computers**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/francescomignone/](https://www.linkedin.com/in/francescomignone/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
