@@ -7,11 +7,12 @@
 
 - 👀 I’m interested in Scatolette and IC Design
 
-- 🌱 I’m currently learning **Rust** and **PCB Design**
+- 🌱 I’m currently learning 
+
+- ⚡ **I like anime and hentai. Oh yes i also like computers**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/francescomignone/](https://www.linkedin.com/in/francescomignone/)
 
-- ⚡ Fun fact **i like anime and hentai. Oh yes i also like computers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
