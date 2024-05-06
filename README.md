@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning 
 
-- ⚡ **I like anime and hentai. Oh yes i also like computers**
+- ⚡ **I like anime and 2D girls. Oh yes i also like computers**
 
 
 <h3 align="left">Connect with me:</h3>
