@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Mignone</h1>
-<h3 align="center">A Embedded Systems Engineering student</h3>
+<h3 align="center">A Embedded Systems Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilnerdchuck&label=Profile%20views&color=0e75b6&style=flat" alt="ilnerdchuck" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in embedded systems 
 
-- 🌱 I’m currently studying Embedded Systems Engineering at the Polytechnic of Turin  
+- 🌱 I’m currently attending the Master's degree course in Embedded Systems Engineering at the Polytechnic of Turin  
 
 - ⚡ **I like computers - Blip Blop** and Anime 👀👀
 
