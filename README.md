@@ -1,23 +1,66 @@
-<h1 align="center">Hi 👋, I'm Francesco Mignone</h1>
-<h3 align="center">A Embedded Systems Engineer</h3>
+<h2 align="left">Hi! My name is Francesco Mignone and I'm an Embedded System Engineer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilnerdchuck&label=Profile%20views&color=0e75b6&style=flat" alt="ilnerdchuck" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/ilnerdchuck" target="blank"><img src="https://img.shields.io/twitter/follow/ilnerdchuck?logo=twitter&style=for-the-badge" alt="ilnerdchuck" /></a> </p>
+<div align="center">
+  
+  ![1_Default_Banner](https://github.com/user-attachments/assets/560bbbb8-b5d7-4b32-bc14-ff482cba78a3)
+</div>
+<div align="center">
 
-- 👀 I’m interested in embedded systems 
+  <p>
+    Currrently studiyng at Polytechnic of Turin Embedded Systems.
+  </p>
+</div>
 
-- 🌱 I’m currently attending the Master's degree course in Embedded Systems Engineering at the Polytechnic of Turin  
 
-- ⚡ **I like computers - Blip Blop** and Anime 👀👀
+###
 
+<div align="center">
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ilnerdchuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilnerdchuck" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/francescomignone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilnerdchuck" height="30" width="40" /></a>
-<a href="https://instagram.com/ilnerdchuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilnerdchuck" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="kicad" width="80" height="40"/> </a> <a href="[https://unity.com/](https://www.raspberrypi.com/)" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="RPI" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/francescomignone/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ilnerdchuck/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:fmignone98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilnerdchuck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilnerdchuck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilnerdchuck/ilnerdchuck/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilnerdchuck/ilnerdchuck/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ilnerdchuck/ilnerdchuck/output/pacman-contribution-graph.svg">
+</picture>
+
+###
