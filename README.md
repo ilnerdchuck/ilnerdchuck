@@ -12,6 +12,9 @@
   <p>
     Currrently studiyng at Polytechnic of Turin Embedded Systems.
   </p>
+  <p>
+    Feel free to contact me for any information!
+  </p>
 </div>
 
 
